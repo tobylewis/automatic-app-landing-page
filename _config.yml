@@ -37,43 +37,39 @@ features                                  :
 
   - title                                 : Manage Attendance for Informal Events
     description                           : Ideal for managing weekly local events which usually draw on a base of regular attendees.
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : users
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
+  - title                                 : Manage Waitlists
+    description                           : Once events fill up further bookings go into a waitlist with notifications when others cancel. 
+    fontawesome_icon_name                 : list-alt
+    
+  - title                                 : Track Payments
+    description                           : Enter payments details so that you and the attendees can see what has been paid for.
+    fontawesome_icon_name                 : money-bill-wave-alt
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : Limit Bookings
+    description                           : Limit the number of confirmed bookings a user can have so that everyone gets a chance.
+    fontawesome_icon_name                 : arrow-down
+    
+  - title                                 : Quickly See Upcoming Bookings
+    description                           : Each user can see a list of all events and can easily see which ones they have booked.
+    fontawesome_icon_name                 : eye
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
+  - title                                 : Record of Past Attendance
+    description                           : Access past events to see who attended, shows payments on past events.
+    fontawesome_icon_name                 : archive
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
-  
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
+  - title                                 : Keeps Contact Details
+    description                           : Hold the contact details of your attendees for quick contact if the event is cancelled or changes.
+    fontawesome_icon_name                 : id-card
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
+  - title                                 : Regular Plus Ones
+    description                           : Each booking specifies a guest of the attendee.  Each user can have a list of regular guests.
+    fontawesome_icon_name                 : user-plus
 
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
-
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
-
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+  - title                                 : Self Serve Cancellations
+    description                           : Users can cancel bookings themselves and anyone on waiting list notified of the space.
+    fontawesome_icon_name                 : window-close
 
 
 
